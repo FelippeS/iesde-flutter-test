@@ -5,8 +5,9 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:provider/provider.dart';
-import 'package:provider_shopper/models/cart.dart';
-import 'package:provider_shopper/models/catalog.dart';
+import 'package:processo_selecao_iesde/models/cart.dart';
+import 'package:processo_selecao_iesde/models/catalog.dart';
+
 
 class MyCatalog extends StatelessWidget {
   const MyCatalog({super.key});
